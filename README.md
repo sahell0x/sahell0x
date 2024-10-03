@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer || Hungry to learn new technologies
+Software Developer || Eager to learn new technologies
 
 
 ## 🌐 Socials:
