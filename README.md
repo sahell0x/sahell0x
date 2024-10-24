@@ -38,10 +38,3 @@ A passionate **Full Stack Developer** with experience in building modern web app
 - **Object-Oriented Programming (OOP)**
 
 ---
-
-## 🌟 Let's Connect!
-Feel free to reach out or check out my projects on GitHub:
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-
----
