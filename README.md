@@ -46,3 +46,6 @@ I am highly motivated to contribute to open-source projects and collaborate with
 
 ---
 
+## 📄 View My Resume
+
+You can check out my resume [here](https://drive.google.com/file/d/1NS2s-jzII93IVOHl7zqMg0fJ-a_EALuH/view?usp=sharing).
