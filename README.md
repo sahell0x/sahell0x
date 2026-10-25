@@ -105,4 +105,4 @@ Takes a US ticker, reads financials and SEC EDGAR filings, computes every ratio 
 
 I'm open to collaborating on AI/LLM and open-source projects. Reach out via [email](mailto:s.sahil9752@gmail.com) or [LinkedIn](https://www.linkedin.com/in/sahell0x/).
 
-📝 [Resume](https://drive.google.com/file/d/1NS2s-jzII93IVOHl7zqMg0fJ-a_EALuH/view?usp=sharing) · 🌐 [Portfolio](https://sahell.in)
+📝 [Resume](https://resume.sahell.in) · 🌐 [Portfolio](https://sahell.in)
